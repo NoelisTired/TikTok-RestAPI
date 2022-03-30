@@ -13,8 +13,6 @@
     <a href="https://github.com/Noelistired/TikTok-ReAPI"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
-    <a href="https://github.com/Noelistired/TikTok-ReAPI">View Demo</a>
-    .
     <a href="https://github.com/Noelistired/TikTok-ReAPI/issues">Report Bug</a>
     .
     <a href="https://github.com/Noelistired/TikTok-ReAPI/issues">Request Feature</a>
