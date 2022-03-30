@@ -108,7 +108,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/Noelistired/
 
 ## Authors
 
-* **NoelP** - *Creation and Maintence of API* - [NoelP](https://github.com/NoelisTired/) - *Built ReadME Template*
+* **NoelP** - *Creation and Maintence of API* - [NoelP](https://github.com/NoelisTired/) - **
 * **Solarity** - *Set up Flask* - [Solarity](https://github.com/SolarityPY/) - **
 
 ## Acknowledgements
