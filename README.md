@@ -79,7 +79,6 @@ response = requests.get("https://noelp.live/stats?video=
 
 https://noelp.live/stats?video=
 *https://www.tiktok.com/@noelp_/video/7080105292943363333?is_copy_url=1&is_from_webapp=v1*space. You may also link to more resources.
-
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Roadmap
