@@ -39,7 +39,7 @@
 
 ## About The Project
 
-![Screen Shot](images/screenshot.png)
+![Screen Shot](screenshot.png)
 
 There are many great TikTok API Wrappers available on GitHub, however, I didn't find one that really suit my needs for NoelP X AIO. (https://youtube.com/noelp) so I created this easy to use yet advanced one. This api is so amazing that it'll be the last one you ever need.
 
