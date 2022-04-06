@@ -70,12 +70,12 @@ pip install requests
 ### Installation
 
 This RestAPI only allows GET requests.
-response = requests.get("https://noelp.live/stats?video=
+response = requests.get("https://noelp-backend.xyz/stats?video=
 *https://www.tiktok.com/@noelp_/video/7080105292943363333?is_copy_url=1&is_from_webapp=v1*")
 
 ## Usage
 
-https://noelp.live/stats?video=
+https://noelp-backend.xyz/stats?video=
 *https://www.tiktok.com/@noelp_/video/7080105292943363333?is_copy_url=1&is_from_webapp=v1*space. You may also link to more resources.
 _For more examples, please refer to the [Documentation](https://example.com)_
 
@@ -93,7 +93,7 @@ Contributions are what make the open source community such an amazing place to b
 
 ### Creating A Pull Request
 
-1. Go to https://noelp.live/
+1. Go to https://noelp-backend.xyz/
 2. Message NoelP
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
